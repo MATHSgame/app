@@ -1,0 +1,1 @@
+Instalando o aplicativo, ele vai extrair a pasta com os arquivos do mesmo e o atalho para abrir o aplicativo. Caso você queira, você pode mover a pasta para "C:\Program Files" e colocar o atalho em "C:\Users\Lenovo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs" para ele aparecer na pesquisa do Windows.
